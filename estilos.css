@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background-color: black;
+    color:aliceblue;
+}
+
+nav {
+    background-color: orangered;
+}
+
+footer{
+    background-color: black;
+    color:aliceblue;
+}
+main section{
+background-color: aliceblue;
+color: black;
+
+}
+main article{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #000;
+}
+aside section{
+    background-color: orangered;
+}
