@@ -1,8 +1,18 @@
-body {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+
+div .contenedor{
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+}
+
 header {
     background-color: black;
     color:aliceblue;
@@ -17,10 +27,10 @@ footer{
     color:aliceblue;
 }
 main section{
-background-color: aliceblue;
-color: black;
-
+    background-color: aliceblue;
+    color: black;
 }
+
 main article{
     margin-bottom: 20px;
     padding-bottom: 20px;
@@ -28,4 +38,15 @@ main article{
 }
 aside section{
     background-color: orangered;
+}
+aside section img{
+    width: 350px;
+}
+
+footer .rrss{
+    background-color: orangered;
+}
+
+footer img{
+    width: 35px;
 }
