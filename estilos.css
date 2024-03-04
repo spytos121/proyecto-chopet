@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background-color: black;
+    color:aliceblue;
+}
+
+nav {
+    background-color: orangered;
+}
+
+footer{
+    background-color: black;
+    color:aliceblue;
+}
+main section{
+background-color: aliceblue;
+color: black;
+
+}
+
+aside section{
+    background-color: orangered;
+}
