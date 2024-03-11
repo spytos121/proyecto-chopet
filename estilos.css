@@ -49,11 +49,15 @@ nav a:hover{
 footer{
     background-color: black;
     color:aliceblue;
-}
-main {
-    width: 70%;
-}
+    background-color: black;
+    color:aliceblue;
+    padding:20px 60px;
+    width: 100%;
 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 main section{
     background-color: aliceblue;
     color: black;
@@ -64,17 +68,11 @@ main article{
     padding-bottom: 20px;
     border-bottom: 1px solid #000;
 }
-
-aside{
-    width: 30%;
-}
-
 aside section{
     background-color: orangered;
 }
 aside section img{
-    width: auto;
-    background-color: rgb(203, 54, 0);
+    width: 350px;
 }
 
 footer .rrss{
@@ -82,5 +80,9 @@ footer .rrss{
 }
 
 footer img{
-    width: 35px;
+   	 width: 35px;
+	display: flex
+	flex-direction:row;
+    justify-content: space-between;
+    padding:6px
 }
