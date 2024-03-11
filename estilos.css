@@ -5,17 +5,28 @@
 }
 body{
     font-family:'Times New Roman', Times, serif;
+    background-color:#ECECEC;
 }
 
-div .contenedor{
+.contenedor{
     width: 90%;
     max-width: 1000px;
     margin:auto;
+
+    display:flex ;
+    flex-wrap: wrap;
 }
 
 header {
     background-color: black;
     color:aliceblue;
+    padding:20px 60px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
 }
 
 nav {
