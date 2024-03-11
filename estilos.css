@@ -50,6 +50,10 @@ footer{
     background-color: black;
     color:aliceblue;
 }
+main {
+    width: 70%;
+}
+
 main section{
     background-color: aliceblue;
     color: black;
@@ -60,11 +64,17 @@ main article{
     padding-bottom: 20px;
     border-bottom: 1px solid #000;
 }
+
+aside{
+    width: 30%;
+}
+
 aside section{
     background-color: orangered;
 }
 aside section img{
-    width: 350px;
+    width: auto;
+    background-color: rgb(203, 54, 0);
 }
 
 footer .rrss{
