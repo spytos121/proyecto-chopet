@@ -20,7 +20,7 @@ body{
 header {
     background-color: black;
     color:aliceblue;
-    padding:20px 60px;
+    padding:20px 100px;
     width: 100%;
 
     display: flex;
@@ -91,7 +91,7 @@ aside section img{
 footer{
     background-color: black;
     color:aliceblue;
-    padding:20px 60px;
+    padding:20px;
     width: 100%;
 
     display: flex;
