@@ -50,16 +50,24 @@ nav a:hover{
 
 main{
     width: 70%;
+    background-color: white;
 }
+
 main section{
-    background-color: aliceblue;
+    background-color: white;
     color: black;
+    padding: 20px;
+    padding-bottom: 90px;
+    padding-top: 20px;
 }
 
 .uno {
     border-bottom: 1px solid #000;
+    padding-bottom: 20px;
 }
-
+.dos{
+    padding-top: 20px
+}
 aside{
     background-color: rgb(255, 111, 59);
     width: 30%;
