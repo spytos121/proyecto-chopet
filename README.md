@@ -1,2 +1,3 @@
 # proyecto-chopet
-un proyecto hecho por josé manuel parraga, miguel angel rodriguez y anonimous
+Un proyecto hecho por José Manuel Párraga, Miguel Ángel Rodríguez.
+
