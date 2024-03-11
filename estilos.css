@@ -29,12 +29,17 @@ header {
 
 }
 
-nav {
+header nav {
     background-color: orangered;
+
+    display: flex;
+
 }
 nav a {
     color:white;
     text-decoration: none;
+    margin: 10px 25px;
+    
 }
 nav a:hover{
     color:white;
