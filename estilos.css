@@ -61,6 +61,9 @@ footer{
     align-items: center;
 }
 
+main{
+    width: 70%;
+}
 main section{
     background-color: aliceblue;
     color: black;
@@ -71,6 +74,15 @@ main article{
     padding-bottom: 20px;
     border-bottom: 1px solid #000;
 }
+
+aside{
+    background-color: rgb(255, 111, 59);
+    width: 30%;
+    display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
 aside section{
     background-color: orangered;
     margin:20px;
@@ -89,9 +101,6 @@ footer .rrss{
 }
 
 footer img{
-   	 width: 35px;
-	display: flex
-	flex-direction:row;
-    justify-content: space-between;
+   	width: 35px;
     padding:6px
 }
